@@ -1,4 +1,5 @@
 import log from "loglevel";
+
 export enum LogLevel {
   // noinspection JSUnusedGlobalSymbols
   TRACE = 0,
